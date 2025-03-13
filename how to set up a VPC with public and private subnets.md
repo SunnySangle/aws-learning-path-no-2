@@ -1,3 +1,5 @@
+[Screenshot 2025-03-06 180504.png](https://www.notion.so/1b45e020b74f808f90fcd2e8c5b8477e?pvs=21)
+
 Let’s go step by step on how to set up a **VPC with public and private subnets** on AWS EC2 and configure a **NAT Gateway** for private subnets so they can access the internet securely. Let’s roll! 🚀
 
 ---
@@ -135,3 +137,6 @@ ping google.com
 ```
 
 If it works, your **NAT Gateway** is correctly routing traffic!
+
+
+[Screenshot 2025-03-06 180504.png](https://www.notion.so/1b45e020b74f808f90fcd2e8c5b8477e?pvs=21)
