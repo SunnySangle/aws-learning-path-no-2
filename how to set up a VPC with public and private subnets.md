@@ -1,4 +1,5 @@
 ![Screenshot 2025-03-06 180504.png](attachment:b63b5a3f-c526-4377-a5a7-1d7838ba8136:Screenshot_2025-03-06_180504.png)
+https://github.com/SunnySangle/aws-learning-path-no-2/blob/1905dfc51cf3966a2bb60397496276cc623ed684/EC2%20VPC%20Setup.png
 
 Let’s go step by step on how to set up a **VPC with public and private subnets** on AWS EC2 and configure a **NAT Gateway** for private subnets so they can access the internet securely. Let’s roll! 🚀
 
