@@ -112,8 +112,7 @@ Let’s go step by step on how to set up a **VPC with public and private subnets
     - SSH into the public instance:
 
 ```bash
-bash
-CopyEdit
+
 ssh -i your-key.pem ec2-user@your-public-ip
 
 ```
@@ -122,8 +121,7 @@ ssh -i your-key.pem ec2-user@your-public-ip
     - SSH from the **public EC2** to the **private EC2** using its **Private IP**:
 
 ```bash
-bash
-CopyEdit
+
 ssh -i your-key.pem ec2-user@your-private-ip
 
 ```
@@ -131,8 +129,7 @@ ssh -i your-key.pem ec2-user@your-private-ip
 1. **Test internet access from the Private EC2:**
 
 ```bash
-bash
-CopyEdit
+
 ping google.com
 
 ```
